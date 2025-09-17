@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 About Me  <br>- 🎓 I’m an Engineering student at Christ College of Engineerin  <br>- 💡 Passionate about technology, coding, and problem solving<br>- 🌱 Currently exploring Data Structures & Algorithms and Full Stack Development<br>- 🎯 Looking forward to becoming a Software Developer and building impactful solutions 
+## 🚀 About Me  <br>- 🎓 I’m an Engineering student at Christ College of Engineering  <br>- 💡 Passionate about technology, coding, and problem solving<br>- 🌱 Currently exploring Data Structures & Algorithms and Full Stack Development<br>- 🎯 Looking forward to becoming a Software Developer and building impactful solutions 
 
 
 ## 🌐 Socials:
